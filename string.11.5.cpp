@@ -95,8 +95,8 @@ void testString1()
 void testString2()
 {
 	String s1("hello");
-	String s2 = s1;  // 拷贝构造
-	s2 = s1; // 赋值运算符
+	String s2 = s1;  
+	s2 = s1; 
 }
 
 int main()
