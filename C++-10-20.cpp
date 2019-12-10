@@ -1,5 +1,4 @@
 #define  _CRT_SECURE_NO_WARNINGS
-//#pragma pack(1)
 #include <stdio.h>
 #include <iostream>
 #include <time.h>
@@ -14,7 +13,6 @@ using namespace std;
 //	}
 //}
 //
-////命名空间的嵌套
 //namespace N2
 //{
 //	int b;
